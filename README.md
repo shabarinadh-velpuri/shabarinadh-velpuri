@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-white?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=000000"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabarinadh-velpuri&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/shabarinadh-velpuri?label=Followers&style=for-the-badge&color=000000" alt="Followers"/>
+</p>
+
 <div align="center">
   <p>
     🎓 AIML graduate now sailing into the world of <b>Artificial Intelligence & Machine Learning</b>.<br/>
@@ -27,6 +32,9 @@
 ---
 
 ## ⚔️ Current Crew Mission (What I'm Doing Right Now)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=000000&center=false&vCenter=true&width=700&lines=%F0%9F%A7%AD+Training+neural+networks...;%F0%9F%90%8D+Writing+Python+every+day;%F0%9F%93%88+Learning+ML+one+model+at+a+time;%E2%9A%93+Sailing+towards+ML+Engineer+role" alt="Typing SVG"/>
+
 - 🧭 Deepening core **Machine Learning & Deep Learning** foundations (supervised, unsupervised, neural nets)
 - 🐍 Building projects with **Python, NumPy, Pandas, Scikit-learn**
 - 🔥 Exploring **TensorFlow / PyTorch** for model building
@@ -66,6 +74,16 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github" theme="dark"/>
 </p>
 
+### ⚡ Skill Levels (Animated)
+
+<p align="center">
+  <img src="./skillbars.svg" alt="Animated skill bars" width="600"/>
+</p>
+
+<p align="center">
+  <sub>👆 Bars animate and fill in when the README loads. Upload <code>skillbars.svg</code> to the root of your profile repo for this to render.</sub>
+</p>
+
 ---
 
 ## 🧭 Highlight Projects — Treasures Found Along the Way
@@ -101,6 +119,18 @@ R.V.R & J.C College of Engineering (2022–2026)
 - Ethical Hacker – Cisco Networking Academy
 - SQL – Geekster
 - JavaScript – Udemy
+
+---
+
+## 🏆 Bounty Board (GitHub Trophies)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shabarinadh-velpuri&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <sub>👆 These trophies animate in one by one when the page loads</sub>
+</p>
 
 ---
 
