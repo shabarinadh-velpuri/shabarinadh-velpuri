@@ -167,3 +167,64 @@ R.V.R & J.C College of Engineering (2022–2026)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 </p>
+<svg width="700" height="360" viewBox="0 0 700 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #000000; }
+    .label { font-family: 'Courier New', monospace; font-size: 16px; fill: #FFFFFF; }
+    .pct { font-family: 'Courier New', monospace; font-size: 14px; fill: #FFFFFF; }
+    .track { fill: #2b2b2b; rx: 6; }
+    .bar {
+      fill: #FFFFFF;
+      rx: 6;
+      transform-origin: left;
+      animation: grow 1.8s ease-out forwards;
+    }
+    @keyframes grow {
+      from { transform: scaleX(0); }
+      to { transform: scaleX(1); }
+    }
+    .b1 { animation-delay: 0s; }
+    .b2 { animation-delay: 0.15s; }
+    .b3 { animation-delay: 0.3s; }
+    .b4 { animation-delay: 0.45s; }
+    .b5 { animation-delay: 0.6s; }
+    .b6 { animation-delay: 0.75s; }
+    .title { font-family: 'Courier New', monospace; font-size: 20px; fill: #FFFFFF; font-weight: bold; }
+  </style>
+
+  <rect class="bg" width="700" height="360" rx="12"/>
+  <text x="30" y="40" class="title">⚡ Skill Levels</text>
+
+  <!-- Python -->
+  <text x="30" y="80" class="label">Python</text>
+  <rect x="30" y="90" width="500" class="track" height="16"/>
+  <rect x="30" y="90" width="450" class="bar b1" height="16"/>
+  <text x="545" y="103" class="pct">90%</text>
+
+  <!-- Machine Learning -->
+  <text x="30" y="135" class="label">Machine Learning</text>
+  <rect x="30" y="145" width="500" class="track" height="16"/>
+  <rect x="30" y="145" width="375" class="bar b2" height="16"/>
+  <text x="545" y="158" class="pct">75%</text>
+
+  <!-- Deep Learning -->
+  <text x="30" y="190" class="label">Deep Learning</text>
+  <rect x="30" y="200" width="500" class="track" height="16"/>
+  <rect x="30" y="200" width="325" class="bar b3" height="16"/>
+  <text x="545" y="213" class="pct">65%</text>
+
+  <!-- NLP -->
+  <text x="30" y="245" class="label">NLP</text>
+  <rect x="30" y="255" width="500" class="track" height="16"/>
+  <rect x="30" y="255" width="275" class="bar b4" height="16"/>
+  <text x="545" y="268" class="pct">55%</text>
+
+  <!-- Computer Vision -->
+  <text x="30" y="300" class="label">Computer Vision</text>
+  <rect x="30" y="310" width="500" class="track" height="16"/>
+  <rect x="30" y="310" width="275" class="bar b5" height="16"/>
+  <text x="545" y="323" class="pct">55%</text>
+
+  <!-- Cybersecurity -->
+  <text x="30" y="345" class="label" font-size="14">Cybersecurity (legacy)</text>
+</svg>
